@@ -1,5 +1,5 @@
 # POO_ Actividad2
-#Programación Orientada a Objetos
+# Programación Orientada a Objetos 2026 - 2
 Universidad Nacional de Colombia
 
 Actividad: Actividad 2 — Programación Orientada a Objetos
